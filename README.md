@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronipereira
 - 👀 I’m interested in everything related to test automation
-- 🌱 I’m currently expanding my knowledge about RestAssured
+- 🌱 I’m currently expanding my knowledge about RestAssured and Continuous integration
 - 📫 Reach me on https://www.linkedin.com/in/roni-capela-pereira-a8a07148
 
 <!---
